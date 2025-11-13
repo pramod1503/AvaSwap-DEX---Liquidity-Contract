@@ -1,0 +1,24 @@
+# Hardhat build output
+artifacts/
+cache/
+typechain/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+coverage.json
